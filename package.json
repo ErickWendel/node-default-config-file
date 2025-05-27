@@ -1,0 +1,16 @@
+{
+  "name": "config",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --experimental-default-config-file --watch index.js"
+  },
+  "keywords": [],
+  "author": "erickwendel",
+  "license": "ISC",
+  "type": "module",
+  "engines": {
+    "node": "v24.1.0"
+  }
+}

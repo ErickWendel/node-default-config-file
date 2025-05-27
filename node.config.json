@@ -1,0 +1,7 @@
+{
+  "$schema": "https://nodejs.org/dist/v24.1.0/docs/node-config-schema.json",
+  "nodeOptions": {
+    "inspect": true,
+    "trace-warnings": true
+  }
+}
